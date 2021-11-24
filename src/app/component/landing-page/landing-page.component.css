@@ -1,0 +1,23 @@
+
+.banner{
+    
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    padding: 0px 300px 0px 300px;
+    background-color: rgb(177, 223, 211);
+        
+    height: 400px;
+}
+.col-4{
+    background-color: black;
+    height: 30px;
+
+}
+.col-6{
+    background-color: blue;
+    height: 30px;
+
+}
+
